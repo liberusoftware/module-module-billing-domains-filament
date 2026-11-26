@@ -3,7 +3,7 @@
   "name": "module-billing-domains-filament",
   "display_name": "Billing Domains Filament",
   "description": "Filament adapter for Billing Domains.",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "category": "presentation",
   "provider": "Liberu\\Billing\\Domains\\Filament\\DomainsFilamentServiceProvider",
   "requires": {
